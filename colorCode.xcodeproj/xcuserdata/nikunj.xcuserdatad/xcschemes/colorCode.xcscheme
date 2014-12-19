@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EC2C4C2B1A25A87300BEBDCF"
-               BuildableName = "SwiftDem.app"
-               BlueprintName = "SwiftDem"
-               ReferencedContainer = "container:SwiftDem.xcodeproj">
+               BlueprintIdentifier = "EC6386811A42D2DC00239C63"
+               BuildableName = "colorCode.app"
+               BlueprintName = "colorCode"
+               ReferencedContainer = "container:colorCode.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EC2C4C441A25A87300BEBDCF"
-               BuildableName = "SwiftDemTests.xctest"
-               BlueprintName = "SwiftDemTests"
-               ReferencedContainer = "container:SwiftDem.xcodeproj">
+               BlueprintIdentifier = "EC6386961A42D2DC00239C63"
+               BuildableName = "colorCodeTests.xctest"
+               BlueprintName = "colorCodeTests"
+               ReferencedContainer = "container:colorCode.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EC2C4C441A25A87300BEBDCF"
-               BuildableName = "SwiftDemTests.xctest"
-               BlueprintName = "SwiftDemTests"
-               ReferencedContainer = "container:SwiftDem.xcodeproj">
+               BlueprintIdentifier = "EC6386961A42D2DC00239C63"
+               BuildableName = "colorCodeTests.xctest"
+               BlueprintName = "colorCodeTests"
+               ReferencedContainer = "container:colorCode.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EC2C4C2B1A25A87300BEBDCF"
-            BuildableName = "SwiftDem.app"
-            BlueprintName = "SwiftDem"
-            ReferencedContainer = "container:SwiftDem.xcodeproj">
+            BlueprintIdentifier = "EC6386811A42D2DC00239C63"
+            BuildableName = "colorCode.app"
+            BlueprintName = "colorCode"
+            ReferencedContainer = "container:colorCode.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EC2C4C2B1A25A87300BEBDCF"
-            BuildableName = "SwiftDem.app"
-            BlueprintName = "SwiftDem"
-            ReferencedContainer = "container:SwiftDem.xcodeproj">
+            BlueprintIdentifier = "EC6386811A42D2DC00239C63"
+            BuildableName = "colorCode.app"
+            BlueprintName = "colorCode"
+            ReferencedContainer = "container:colorCode.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EC2C4C2B1A25A87300BEBDCF"
-            BuildableName = "SwiftDem.app"
-            BlueprintName = "SwiftDem"
-            ReferencedContainer = "container:SwiftDem.xcodeproj">
+            BlueprintIdentifier = "EC6386811A42D2DC00239C63"
+            BuildableName = "colorCode.app"
+            BlueprintName = "colorCode"
+            ReferencedContainer = "container:colorCode.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>SwiftDem.xcscheme</key>
+		<key>colorCode.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>EC2C4C2B1A25A87300BEBDCF</key>
+		<key>EC6386811A42D2DC00239C63</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>EC2C4C441A25A87300BEBDCF</key>
+		<key>EC6386961A42D2DC00239C63</key>
 		<dict>
 			<key>primary</key>
 			<true/>
